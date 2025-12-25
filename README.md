@@ -1,6 +1,3 @@
-<img src="        ![indir](https://github.com/user-attachments/assets/92f3d6e8-72d1-408b-ae74-1f363dc0a04c)
-           " alt="emre">
-
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 - 📫 How to reach me **sahinhfemre@gmail.com**
